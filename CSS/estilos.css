@@ -1,0 +1,61 @@
+body {
+    background-color: beige;
+    background-image: url("../img/Otros/huellas.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50%;
+}
+
+#posicionar_img {
+    margin: 50px 50px 50px 200px;
+}
+
+#centrado{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-color: rgb(255, 133, 89);
+    padding: 20px 200px 20px 200px;
+    margin: 50px 200px 50px 200px;
+}
+
+#back {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: right;
+}
+
+#titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;  
+    text-align: center; 
+    background-color: lightgreen;
+    margin-left: 500px;
+    margin-right: 500px;
+    border: 3px solid forestgreen;
+}
+
+#algun_parrafo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;  
+    text-align: left; 
+    margin: 50px 650px 50px ;
+}
+
+#alinear_texto{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 150px;
+}
+
+#descripcion{
+    display: inline-block;
+    vertical-align: bottom;
+    background-color: cornflowerblue;
+    border: 3px solid mediumblue;
+    padding: 10px 40px 10px 10px;
+}
